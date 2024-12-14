@@ -1,0 +1,11 @@
+10
+John,Doe,12345678,87654321,19900115,O+,"Critical condition due to heart failure",20241201,20241210
+Jane,Smith,87654321,none,19880520,A,"Moderate asthma symptoms",20241205,none
+Michael,Brown,12348765,87659876,20020310,AB,"Stable - minor injury",20241206,20241208
+Emily,Davis,65439876,none,19951125,B,"Critical brain injury",20241202,none
+Chris,Wilson,43219876,76543218,20001230,O-,"Stable - routine checkup",20241207,none
+Sophia,Taylor,98765432,12347654,19970415,O,"Moderate diabetes symptoms",20241203,20241209
+Liam,Johnson,11223344,98761234,20011101,A,"Critical kidney failure",20241204,none
+Olivia,Martinez,99887766,none,19930620,AB,"Stable - recovering from surgery",20241202,20241208
+Noah,Anderson,77665544,88776655,19981225,B,"Critical respiratory infection",20241201,none
+Ava,Thomas,44332211,66778899,20050910,O-,"Moderate flu symptoms",20241206,20241212
